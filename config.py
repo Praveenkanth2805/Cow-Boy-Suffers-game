@@ -1,0 +1,13 @@
+# config.py
+
+WINDOW_TITLE = "Cowboy Suffer"
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+
+LANES = [-5, 0, 5]
+GRAVITY = -35
+JUMP_FORCE = 18
+BASE_SPEED = 25
+
+TARGET_FPS = 60
+SAVE_PATH = "save/game_data.json"
